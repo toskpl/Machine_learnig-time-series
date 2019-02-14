@@ -1,1 +1,1 @@
-# Machine_learnig-time-series
+# Machine_learning Time series
